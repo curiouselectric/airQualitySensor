@@ -1,0 +1,35 @@
+Reference,Item,Quantity, Value
+C1,Power supply buffer capacitor,1,220uf
+J1,2.1mm barrel jack power connector,1,5V
+J2,2 way screw terminal,1,5V
+J3,ADC input pins,0,ADC_IN
+J4,ADS1115 ADC connector. NOT supplied!,0,ADS1115_ADC
+J8,Temperature and Humidity Sensor,1,BME280
+J9,4 way Connector - Grove Wiring. NOT supplied!,0,I2C_1
+J10,4 way Connector - Grove Wiring. NOT supplied!,0,I2C_2
+J11,4 way Connector - Grove Wiring. NOT supplied!,0,I2C_3
+J12,Temperature and Humidity Sensor. NOT supplied!,0,DHT22
+J13,5Way JST-XH 90 Connector for: Dust and particle sensor.,1,SDS011
+"J14,J15",15 way Header for NodeMCU,2,"ESP_BO1, ESP_BO2"
+P1,SMD USB connector. NOT supplied!,0,PWR
+R1,Used if DHT22 sensor used. NOT supplied!,0,4k7
+U1,Programmed NodeMCU ESP8266 Unit.,1,NODEMCU
+PCB,Circuit board for all sensors.,1,
+SDS011,Dust and Particle sensor,1,
+USB Power Lead,5m USB cable.,1,
+Wire,4 colours for connecting BME280 to PCB.,4,
+Enclosure,Waterproof small encosure. Pre-cut holes.,1,
+Baseplate,Laser Cut,1,
+Rubber Seal,Laser Cut,1,
+Side Plate,Laser Cut,1,
+Insect Mesh,Small piece,1,
+Gromit,For USB power lead,1,
+Pipe,Small Pipe ID: 6mm OD 8mm - yellow,1,
+Spacers 3mm,Hold SDS to PCB,3,
+Spacers 20mm,Hold SDS to baseplate,3,
+M3 screws 10mm,Hold PCB and Baseplate,6,
+Self Tapping screws,Hold baseplate to enclosure,4,
+M3 screws 20mm,Hold rubber seal and side plate,4,
+M3 Nuts,Hold rubber seal and side plate,4,
+M2 screws 20mm,Hold BME280 in place,2,
+M2 Nuts,Hold BME280 in place,2,
