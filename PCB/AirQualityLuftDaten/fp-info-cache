@@ -1,4 +1,4 @@
-1099145108197323
+1103925395567232
 Connector_PinSocket_2.54mm
 PinSocket_1x01_P2.54mm_Horizontal
 Through hole angled socket strip, 1x01, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
@@ -2072,7 +2072,21 @@ CuriousElectric_globe_10mm
 0
 0
 CuriousElectric3
+logo_conversion
+
+
+0
+0
+0
+CuriousElectric3
 mouse10x10
+
+
+0
+0
+0
+CuriousElectric3
+sensorcommunity
 
 
 0
@@ -4696,6 +4710,13 @@ PH_LOGO_MODLEVEL
 0
 0
 0
+REInnovationFootprint
+PinSocket_1x12_P2.54mm_Vertical_Labelled
+Through hole straight socket strip, 1x12, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x12 2.54mm single row
+0
+12
+12
 REInnovationFootprint
 Pin_Header_Straight_1x02
 Through hole pin header
