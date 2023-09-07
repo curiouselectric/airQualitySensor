@@ -1,5 +1,5 @@
 # airQualitySensor_airrohr
-This is a PCB and design for an air quality sensor unit using the sensor.community design
+This is a PCB and design for an air quality sensor unit using the [sensor.community](https://maps.sensor.community/) design
 
 This is a PCB design (in KiCAD) and laser cut enclosure plate design to make an air quality sensor node for inclusion in the [sensor.community](https://maps.sensor.community/) global open environmental data platform .
 I think the project is amazing and produced this design for a simplified, but robust DIY kit.
